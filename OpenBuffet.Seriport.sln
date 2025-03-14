@@ -1,10 +1,51 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{A2E002E3-002E-4427-9F3F-F87E57276EA8}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E5BAD56C-E07F-47BC-8A93-3CB2B4143FC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{12FACBF3-81D8-499A-9724-1D93956A3878}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sample", "sample", "{18C6D4B8-9D2A-4879-AE0A-E79BBFC1340F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenBuffet.Seriport.Test", "test\OpenBuffet.Seriport.Test\OpenBuffet.Seriport.Test.csproj", "{4858D22B-8E58-445D-BE2A-988926000BE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenBuffet.Seriport.Core", "src\OpenBuffet.Seriport.Core\OpenBuffet.Seriport.Core.csproj", "{EA70C7DC-BF24-450B-9437-AE275E9E107E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenBuffet.Seriport.Sample", "sample\OpenBuffet.Seriport.Sample\OpenBuffet.Seriport.Sample.csproj", "{87A93D8D-442D-4DCE-8F15-B361274ED91F}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4858D22B-8E58-445D-BE2A-988926000BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4858D22B-8E58-445D-BE2A-988926000BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4858D22B-8E58-445D-BE2A-988926000BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4858D22B-8E58-445D-BE2A-988926000BE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA70C7DC-BF24-450B-9437-AE275E9E107E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA70C7DC-BF24-450B-9437-AE275E9E107E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA70C7DC-BF24-450B-9437-AE275E9E107E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA70C7DC-BF24-450B-9437-AE275E9E107E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87A93D8D-442D-4DCE-8F15-B361274ED91F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A93D8D-442D-4DCE-8F15-B361274ED91F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A93D8D-442D-4DCE-8F15-B361274ED91F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A93D8D-442D-4DCE-8F15-B361274ED91F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4858D22B-8E58-445D-BE2A-988926000BE5} = {12FACBF3-81D8-499A-9724-1D93956A3878}
+		{EA70C7DC-BF24-450B-9437-AE275E9E107E} = {E5BAD56C-E07F-47BC-8A93-3CB2B4143FC6}
+		{87A93D8D-442D-4DCE-8F15-B361274ED91F} = {18C6D4B8-9D2A-4879-AE0A-E79BBFC1340F}
 	EndGlobalSection
 EndGlobal

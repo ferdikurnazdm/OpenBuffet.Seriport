@@ -1,0 +1,12 @@
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\src\OpenBuffet.Seriport.Core\bin\Release\net8.0\OpenBuffet.Seriport.Core.deps.json
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\src\OpenBuffet.Seriport.Core\bin\Release\net8.0\OpenBuffet.Seriport.Core.dll
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\src\OpenBuffet.Seriport.Core\bin\Release\net8.0\OpenBuffet.Seriport.Core.pdb
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\src\OpenBuffet.Seriport.Core\obj\Release\net8.0\OpenBuffet.Seriport.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\src\OpenBuffet.Seriport.Core\obj\Release\net8.0\OpenBuffet.Seriport.Core.AssemblyInfoInputs.cache
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\src\OpenBuffet.Seriport.Core\obj\Release\net8.0\OpenBuffet.Seriport.Core.AssemblyInfo.cs
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\src\OpenBuffet.Seriport.Core\obj\Release\net8.0\OpenBuffet.Seriport.Core.csproj.CoreCompileInputs.cache
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\src\OpenBuffet.Seriport.Core\obj\Release\net8.0\OpenBuffet.Seriport.Core.sourcelink.json
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\src\OpenBuffet.Seriport.Core\obj\Release\net8.0\OpenBuffet.Seriport.Core.dll
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\src\OpenBuffet.Seriport.Core\obj\Release\net8.0\refint\OpenBuffet.Seriport.Core.dll
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\src\OpenBuffet.Seriport.Core\obj\Release\net8.0\OpenBuffet.Seriport.Core.pdb
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\src\OpenBuffet.Seriport.Core\obj\Release\net8.0\ref\OpenBuffet.Seriport.Core.dll

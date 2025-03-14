@@ -1,0 +1,15 @@
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\sample\OpenBuffet.Seriport.Sample\bin\Debug\net8.0\OpenBuffet.Seriport.Sample.exe
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\sample\OpenBuffet.Seriport.Sample\bin\Debug\net8.0\OpenBuffet.Seriport.Sample.deps.json
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\sample\OpenBuffet.Seriport.Sample\bin\Debug\net8.0\OpenBuffet.Seriport.Sample.runtimeconfig.json
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\sample\OpenBuffet.Seriport.Sample\bin\Debug\net8.0\OpenBuffet.Seriport.Sample.dll
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\sample\OpenBuffet.Seriport.Sample\bin\Debug\net8.0\OpenBuffet.Seriport.Sample.pdb
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\sample\OpenBuffet.Seriport.Sample\obj\Debug\net8.0\OpenBuffet.Seriport.Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\sample\OpenBuffet.Seriport.Sample\obj\Debug\net8.0\OpenBuffet.Seriport.Sample.AssemblyInfoInputs.cache
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\sample\OpenBuffet.Seriport.Sample\obj\Debug\net8.0\OpenBuffet.Seriport.Sample.AssemblyInfo.cs
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\sample\OpenBuffet.Seriport.Sample\obj\Debug\net8.0\OpenBuffet.Seriport.Sample.csproj.CoreCompileInputs.cache
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\sample\OpenBuffet.Seriport.Sample\obj\Debug\net8.0\OpenBuffet.Seriport.Sample.sourcelink.json
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\sample\OpenBuffet.Seriport.Sample\obj\Debug\net8.0\OpenBuffet.Seriport.Sample.dll
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\sample\OpenBuffet.Seriport.Sample\obj\Debug\net8.0\refint\OpenBuffet.Seriport.Sample.dll
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\sample\OpenBuffet.Seriport.Sample\obj\Debug\net8.0\OpenBuffet.Seriport.Sample.pdb
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\sample\OpenBuffet.Seriport.Sample\obj\Debug\net8.0\OpenBuffet.Seriport.Sample.genruntimeconfig.cache
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\sample\OpenBuffet.Seriport.Sample\obj\Debug\net8.0\ref\OpenBuffet.Seriport.Sample.dll
