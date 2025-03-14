@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>OpenBuffet.Seriport.Core</id>
+    <version>1.0.0</version>
+    <title>OpenBuffet.Seriport</title>
+    <authors>OpenBuffet.Seriport.Core</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>food-delivery.png</icon>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/ferdikurnazdm/OpenBuffet.Seriport</projectUrl>
+    <description>OpenBuffet.Seriport</description>
+    <releaseNotes>first release</releaseNotes>
+    <copyright>2025</copyright>
+    <tags>.net core seriport</tags>
+    <repository type="git" url="https://github.com/ferdikurnazdm/OpenBuffet.Seriport" commit="f456a31375ff4d37a92bcb0aaca3b03f318fff9c" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="9.0.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="9.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.IO.Ports" version="9.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net8.0/food-delivery.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\src\OpenBuffet.Seriport.Core\bin\Debug\net8.0\OpenBuffet.Seriport.Core.dll" target="lib\net8.0\OpenBuffet.Seriport.Core.dll" />
+    <file src="D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\src\OpenBuffet.Seriport.Core\food-delivery.ico" target="content\food-delivery.ico" />
+    <file src="D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\src\OpenBuffet.Seriport.Core\food-delivery.ico" target="contentFiles\any\net8.0\food-delivery.ico" />
+    <file src="D:\Folders\Pictures\03_20240117_IMAGES\food-delivery.png" target="\food-delivery.png" />
+    <file src="D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\LICENSE" target="\LICENSE" />
+    <file src="D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\README.md" target="\README.md" />
+  </files>
+</package>

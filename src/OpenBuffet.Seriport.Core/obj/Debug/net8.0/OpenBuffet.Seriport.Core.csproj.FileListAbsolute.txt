@@ -10,3 +10,4 @@ D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\src\OpenBuffet.Seriport.C
 D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\src\OpenBuffet.Seriport.Core\obj\Debug\net8.0\refint\OpenBuffet.Seriport.Core.dll
 D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\src\OpenBuffet.Seriport.Core\obj\Debug\net8.0\OpenBuffet.Seriport.Core.pdb
 D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\src\OpenBuffet.Seriport.Core\obj\Debug\net8.0\ref\OpenBuffet.Seriport.Core.dll
+D:\Users\ferdi.kurnaz\source\repos\OpenBuffet.Seriport\src\OpenBuffet.Seriport.Core\obj\Debug\net8.0\OpenBuffet.Seriport.Core.csproj.AssemblyReference.cache

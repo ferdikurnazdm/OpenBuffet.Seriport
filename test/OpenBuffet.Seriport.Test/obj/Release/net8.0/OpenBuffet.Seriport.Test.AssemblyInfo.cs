@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenBuffet.Seriport.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3572c3427c141223b4cd1889d167cae67ea98930")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f456a31375ff4d37a92bcb0aaca3b03f318fff9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenBuffet.Seriport.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenBuffet.Seriport.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
